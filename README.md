@@ -12,4 +12,5 @@ applications
 
 [link to be dispayed](actual_link)
 
-https://snigdha816.github.io/snigdhaH0/
+
+[google](https://www.google.com/)
